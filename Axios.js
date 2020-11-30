@@ -13,7 +13,7 @@ const sendData = () => {
       "https://reqres.in/api/register",
       {
         email: "eve.holt@reqres.in",
-        //password: "pistol",
+        password: "pistol",
       }
       // ,
       // {
